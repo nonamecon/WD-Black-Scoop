@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+.hero{
+    background-image: url('/assets/img/hero-bg.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.container-fluid{
+    padding:1rem;
+    background-color: rgb(0, 0, 0);
+    border: 0px solid rgb(18, 49, 153); /* outline guide for sectioning */
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+}

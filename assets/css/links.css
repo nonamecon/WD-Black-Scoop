@@ -1,0 +1,12 @@
+a.nav-link, .navbar-brand{
+    margin: 0 2rem 0 2rem;
+    text-decoration: none;
+    font-family: helvetica;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+a.nav-link:hover{
+    color: #ffffff;
+}
+
