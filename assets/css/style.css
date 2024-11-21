@@ -3,9 +3,6 @@ body{
 }
 .hero{
     height: 200vh;
-    background-image: url('/assets/img/hero.jpg');
-    background-size: 100vw auto;
-    background-repeat: no-repeat;
 }
 
 .container-fluid{
