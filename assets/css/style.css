@@ -1,16 +1,17 @@
 body{
-    background-color: black;
+    background-color: rgb(61, 61, 61);
 }
 .hero{
-    background-image: url('/assets/img/hero-bg.jpg');
-    background-size: cover;
-    height: 100vh;
+    height: 200vh;
+    background-image: url('/assets/img/hero.jpg');
+    background-size: 100vw auto;
+    background-repeat: no-repeat;
 }
 
 .container-fluid{
     padding:1rem;
-    background-color: rgb(0, 0, 0);
-    border: 0px solid rgb(18, 49, 153); /* outline guide for sectioning */
+    background-color: #0C0D0F;
+    border: 0px solid rgb(0, 0, 0); /* outline guide for sectioning */
     display: flex;
     position: fixed;
     top: 0;
