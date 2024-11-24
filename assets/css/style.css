@@ -1,5 +1,5 @@
 body{
-    background-color: #141414;
+    background-color: #0e0e0e;
 }
 
 .nav-container{
@@ -29,7 +29,7 @@ p{
 }
 
 .hero-tab{
-    margin-top: 10vh;
+    margin-top: 15vh;
     margin-bottom: 5vh;
     border: 0px solid rgb(0, 0, 0);
     background-color: #000000;
@@ -37,8 +37,12 @@ p{
 
 .body-content{
     margin-bottom: 20px;
-    border: 0px solid white;
+    border: 2px solid white;
     background-color:#000000;
+
+    .content{
+        border: 1px solid white;
+    }
 }
 
 .logo{
