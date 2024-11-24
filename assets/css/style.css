@@ -31,18 +31,11 @@ p{
 .hero-tab{
     margin-top: 15vh;
     margin-bottom: 5vh;
+    background-image: url('/assets/img/hero-banner.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
     border: 0px solid rgb(0, 0, 0);
-    background-color: #000000;
-}
-
-.body-content{
-    margin-bottom: 20px;
-    border: 2px solid white;
-    background-color:#000000;
-
-    .content{
-        border: 1px solid white;
-    }
+    padding-bottom: 100vh;
 }
 
 .logo{
