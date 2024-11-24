@@ -1,13 +1,10 @@
 body{
-    background-color: rgb(61, 61, 61);
-}
-.hero{
-    height: 200vh;
+    background-color: #141414;
 }
 
-.container-fluid{
+.nav-container{
     padding:1rem;
-    background-color: #0C0D0F;
+    background-color: #000000;
     border: 0px solid rgb(0, 0, 0); /* outline guide for sectioning */
     display: flex;
     position: fixed;
@@ -15,4 +12,35 @@ body{
     left: 0;
     right: 0;
     z-index: 20;
+}
+
+p{
+    color: white;
+}
+
+.backup{
+    background-color: #070707;
+}
+
+.nav-logo, .nav-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-tab{
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    border: 0px solid rgb(0, 0, 0);
+    background-color: #000000;
+}
+
+.body-content{
+    margin-bottom: 20px;
+    border: 0px solid white;
+    background-color:#000000;
+}
+
+.logo{
+    height: 70px;
 }
