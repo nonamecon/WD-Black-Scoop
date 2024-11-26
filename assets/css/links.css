@@ -13,10 +13,20 @@ a.navbar-link:hover{
 
 a.footer-link{
     text-decoration: none;
-    margin: 0 3rem 0 0;
+    margin: 0 7rem 0 0;
     color: #e7e7e7;
 }
 a.footer-link:hover{
     color: #a8a8a8;
+}
+
+a.footer-link-grey{
+    text-decoration: none;
+    margin: 0 7rem 0 0;
+    color: #9c9c9c;
+}
+
+a.footer-link-grey:hover{
+    color: #ffffff;
 }
 
