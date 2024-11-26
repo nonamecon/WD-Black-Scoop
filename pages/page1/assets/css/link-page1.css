@@ -10,6 +10,18 @@ a.navbar-link:hover{
     color: #ffffff;
 }
 
+.menu-section{
+    margin: 15vh 0 0vh 0;
+
+    .content-1{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        border: 0px solid white;
+        background-color: #4e1515;
+    }
+}
 
 a.footer-link{
     text-decoration: none;
