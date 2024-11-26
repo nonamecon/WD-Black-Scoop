@@ -10,3 +10,13 @@ a.navbar-link:hover{
     color: #ffffff;
 }
 
+
+a.footer-link{
+    text-decoration: none;
+    margin: 0 3rem 0 0;
+    color: #e7e7e7;
+}
+a.footer-link:hover{
+    color: #a8a8a8;
+}
+
