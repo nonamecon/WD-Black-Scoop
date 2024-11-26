@@ -1,0 +1,86 @@
+body{
+    background-color: #0e0e0e;
+}
+
+p, h1, h5{
+    color: #ffffff;
+}
+
+.grey{
+    color: #9c9c9c;
+}
+h5{
+    font-family: Cambria;
+}
+
+.nav-container{
+    padding:1rem;
+    background-color: #000000;
+    border: 0px solid rgb(0, 0, 0); /* outline guide for sectioning */
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+}
+
+.logo{
+    height: 70px;
+}
+
+.backup{
+    background-color: #070707;
+}
+
+.nav-logo, .nav-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-tab{
+    margin-top: 15vh;
+    margin-bottom: 5vh;
+    border: 0px solid rgb(27, 27, 27);
+    display: flex;
+    justify-content: center;
+}
+
+.about-us-section{
+    margin: 15vh 0 5vh 0;
+
+    .content-2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 5rem;
+        padding-right: 5rem;
+        border: 0px solid white;
+        background-color: #4e1515;
+    }
+}
+
+.footer-body{
+    padding-top: 15vh;
+    background-color: #000000;
+
+        .img-logo{
+            height: 10vh;
+    }
+
+    .footer-margins{
+        margin: 4rem 0 0 3rem;
+    }
+
+    .fixed-size{
+        height: 40px;
+        width: auto;
+    }
+}
+
+.test{
+    border: 1px solid white;
+}
