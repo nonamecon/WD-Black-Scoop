@@ -90,8 +90,7 @@ h5{
 }
 
 .team-section{
-    margin: 0 0 5vh 0;
-
+    background-color: #000000;
     .content-4{
         display: flex;
         justify-content: center;

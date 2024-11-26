@@ -98,6 +98,7 @@ h5{
 .dedicated-section{
     padding-top: 3vh;
     background-color: #000000;
+    border: 0px solid white;
 
     .content-4{
         display: flex;
