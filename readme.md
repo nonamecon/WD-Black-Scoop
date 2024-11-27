@@ -63,7 +63,7 @@ WD-Black-Scoop is built to look great and work smoothly on any device, from desk
 
 Guiding Question:
 - What is the project?
-- Create a responsive website either via javascript, bootstrap, or tailwind.
+- Create a responsive coffee website either via javascript, bootstrap, or tailwind.
 - Whats the purpose?
 - To understand and experience creating responsive websites suitable for any devices and demonstrate every lessons discussed.
 - What are key components?
