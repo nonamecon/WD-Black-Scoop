@@ -8,21 +8,21 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/blackscoopcafelogo_small.png" alt="Nyebe" width="200" height="200">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Black Scoop Design</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Web design subject.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=nonamecon/WD-Black-Scoop)
 
 ---
 
@@ -59,20 +59,23 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+WD-Black-Scoop is built to look great and work smoothly on any device, from desktops to tablets and smartphones. The website uses Bootstrap’s framework to ensure everything is responsive, adapting perfectly to different screen sizes. It features dynamic elements like carousels, navbars, and buttons that make the site interactive and user-friendly. Every page is designed with responsiveness in mind, so images and text layouts adjust seamlessly to smaller screens. The Bootstrap grid system, especially classes like col-sm-6, helps keep the layout flexible and consistent across all devices.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project?
+- Create a responsive coffee website either via javascript, bootstrap, or tailwind.
+- Whats the purpose?
+- To understand and experience creating responsive websites suitable for any devices and demonstrate every lessons discussed.
+- What are key components?
+- Key components include website responsiveness, a multipage website, and Bootstrap embedded. This were used to create a website through the lessons discussed in the subject.
+- What technology used and how it is used?
+- The project was built using a combination of technologies and frameworks, including HTML, CSS, and Bootstrap. HTML served as the backbone of the website, providing the main structure and organizing its content. CSS was used alongside HTML to enhance the visual design, bringing the structure to life with colors, fonts, and layouts that made the site more visually appealing. Bootstrap played the key role in making the website responsive, ensuring it worked perfectly on any device, from desktops and laptops to tablets and smartphones.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Responsive Layout
+- Tablet Suitable Website
+- Bootstrap embedded
 
 ### Technology
 <!-- TODO: List of Technology Used -->
