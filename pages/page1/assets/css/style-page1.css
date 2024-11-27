@@ -17,6 +17,12 @@ h3, h4, h5{
     color: #9c9c9c;
 }
 
+.sub-text{
+    font-style: italic;
+    font-size: 14px;
+    color: #a8a8a8;
+}
+
 .nav-container{
     padding:1rem;
     background-color: #000000;
@@ -63,12 +69,13 @@ h3, h4, h5{
         padding-left: 5rem;
         padding-right: 5rem;
         border: 0px solid white;
-        background-color: #000000;
+        background-color: #4e1515;
     }
 
     .comfort{
         background-color: #4e1515;
     }
+
 }
 
 .footer-body{
