@@ -62,18 +62,19 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- WD-Black-Scoop is 
-- Whats the purpose
-- To p
-- What are key components
+- What is the project?
+- Create a responsive website either via javascript, bootstrap, or tailwind.
+- Whats the purpose?
+- To understand and experience creating responsive websites suitable for any devices and to fully master every lessons discussed.
+- What are key components?
 - Key components include website responsiveness, a multipage website, and Bootstrap embedded.
-- What technology used and how it is used
+- What technology used and how it is used?
+- The project was built using a combination of technologies and frameworks, including HTML, CSS, and Bootstrap. HTML served as the backbone of the website, providing the main structure and organizing its content. CSS was used alongside HTML to enhance the visual design, bringing the structure to life with colors, fonts, and layouts that made the site more visually appealing. Bootstrap played the key role in making the website responsive, ensuring it worked perfectly on any device, from desktops and laptops to tablets and smartphones.
 
 ### Key Components
 - MultiPage Website
 - Responsive Layout
-- Tablet suitable Website
+- Tablet Suitable Website
 - Bootstrap embedded
 
 ### Technology
