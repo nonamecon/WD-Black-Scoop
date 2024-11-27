@@ -11,7 +11,7 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Black Scoop Design</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -63,16 +63,18 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+- WD-Black-Scoop is 
 - Whats the purpose
+- To p
 - What are key components
+- Key components include website responsiveness, a multipage website, and Bootstrap embedded.
 - What technology used and how it is used
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Responsive Layout
+- Tablet suitable Website
+- Bootstrap embedded
 
 ### Technology
 <!-- TODO: List of Technology Used -->
