@@ -17,6 +17,9 @@ h3, h4, h5{
     color: #9c9c9c;
 }
 
+.horizon-dash-2{
+    color: #ffffff;
+}
 .sub-text{
     font-style: italic;
     font-size: 14px;
@@ -49,31 +52,34 @@ h3, h4, h5{
     align-items: center;
 }
 
-.hero-tab{
+.content-1{
     margin-top: 15vh;
-    margin-bottom: 5vh;
+    background-color: #4e1515;
     border: 0px solid rgb(27, 27, 27);
-    display: flex;
-    justify-content: center;
 }
 
 .menu-section{
-    margin: 15vh 0 5vh 0;
-
-    .content-1{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding-top: 1rem;
-        padding-bottom: 1rem;
-        padding-left: 5rem;
-        padding-right: 5rem;
-        border: 0px solid white;
-        background-color: #4e1515;
-    }
+    margin: 5vh 0 5vh 0;
 
     .comfort{
         background-color: #4e1515;
+    }
+
+    .tea{
+        background-color: #4e1515;
+        padding-bottom: 17rem;
+    }
+    .comfort-food-bg{
+                background-color: #1b2c20;
+        .h1-comfort{
+            padding-left: 3rem;
+            padding-top: 4.5rem;
+        }
+    }
+    .comfort-food{
+        padding-left:5rem;
+        border: 0px solid white;
+
     }
 
 }
