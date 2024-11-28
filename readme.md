@@ -6,9 +6,9 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/nonamecon">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/blackscoopcafelogo_small.png" alt="Nyebe" width="200" height="200">
+    <img src="./assets/img/blackscoopcafelogo_small.png" alt="Black Scoop" width="200" height="200">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Black Scoop Design</h3>
