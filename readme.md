@@ -122,4 +122,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Black Scoop Cafe Website | Reference for creating another website about black scoop. | https://www.blackscoopcafe.com/ |
