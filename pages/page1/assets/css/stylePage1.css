@@ -51,9 +51,19 @@ h3, h4, h5{
     justify-content: center;
     align-items: center;
 }
-
-.content-1{
+.content-featured{
     margin-top: 15vh;
+
+    .featured-1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 5rem;
+        padding-right: 5rem;
+        background-color: #77674e;
+    }
+}
+.content-1{
     background-color: #4e1515;
     border: 0px solid rgb(27, 27, 27);
 }
